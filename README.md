@@ -1,2 +1,2 @@
 # WebDev-Summer2022
-WebDev Projects
+Front-end WebDev projects using HTML, CSS and Javascript
